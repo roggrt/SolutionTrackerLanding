@@ -1,6 +1,6 @@
 # 🚀 SolutionTrackerLanding
 
-🌟 _Most *starred* & *forked* Astro theme in 2022_. 🌟
+🌟 _Most *starred* & *forked* in 2022_. 🌟
 
 **Made with astro** 
 - ✅ **Production-ready** scores in **PageSpeed Insights** reports.
