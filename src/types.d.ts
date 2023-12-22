@@ -17,6 +17,9 @@ export interface Post {
   updateDate?: Date;
 
   /**  */
+
+
+
   title: string;
   /** Optional summary of post content. */
   excerpt?: string;
@@ -144,6 +147,7 @@ export interface Price {
   period?: string;
   items?: Array<Item>;
   callToAction?: CallToAction;
+  callToAction1?:CallToAction;
   hasRibbon?: boolean;
   ribbonTitle?: string;
 }

@@ -22,6 +22,10 @@
     "astro-icon": "^1.0.0-next.2",
     "limax": "4.1.0",
     "lodash.merge": "^4.6.2",
+    "react-floating-whatsapp": "^5.0.8",
+    "react-snowfall": "^1.2.1",
+    "stream-chat": "^8.14.4",
+    "stream-chat-react": "^11.1.1",
     "typescript-esbuild": "^0.2.22",
     "unpic": "^3.10.0"
   },
